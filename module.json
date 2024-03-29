@@ -1,0 +1,8 @@
+{
+    "name": "VkAuth",
+    "version": "1.0.0",
+    "description": "Добавляет драйвер авторизации через VK",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\VkAuth\\ServiceProviders\\VkAuthServiceProvider"],
+    "dependencies": {}
+}
